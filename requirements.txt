@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+firebase-admin
+pydantic
+firebase_admin
+typing
+requests
+uuid
+datetime 
+streamlit
+pyrebase
+#note based on python version some modules will not work properly installed the required version and better to create virtual environment  
